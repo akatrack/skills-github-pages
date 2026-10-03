@@ -1,5 +1,5 @@
 ___
-title: Spell Checker Intro
+title: "Spell Checker Intro"
 date: 2026-10-03
 ___
 
